@@ -2,4 +2,4 @@
 
 Web Development
 
-Live site: https://github.com/mazel-ocampo/ocampo_mazel.git
+Live site: https://mazel-ocampo.github.io/ocampo_mazel/
